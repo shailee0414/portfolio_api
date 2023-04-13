@@ -1,12 +1,18 @@
 const express = require("express");
+const cors=require('cors');
 const app = express();
+app.use(cors());
 const path = require("path");
 require("dotenv").config();
+const port = process.env.PORT;
 
 const mongoose = require("mongoose");
+const profile=require('./routes/profile');
+const {readdirSync}=require('fs');
+readdirSync("./routes").map(file=>app.use('/',require(`./routes/${file}`)))
 
-const Profile = require("./models/profile");
-const port = process.env.PORT;
+// const Profile = require("./models/profile");
+
 
 mongoose
   .connect("mongodb://127.0.0.1:27017/portfolio-api", {
@@ -21,17 +27,8 @@ mongoose
   });
 
   app.get('/',(req,res)=>{
-    res.send('main page');
+    res.send("main page");
   })
-app.get("/profile", async (req, res) => {
-  const profile = new Profile({
-    name: "Shailee Yadav",
-    email: "shaileeyadav130@gmail.com",
-    phoneNo: 7348265799,
-  });
-  await profile.save();
-  res.send(profile);
-});
 
 app.listen(port, () => {
   console.log("app on  port",port);
