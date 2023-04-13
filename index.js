@@ -11,7 +11,6 @@ const profile=require('./routes/profile');
 const {readdirSync}=require('fs');
 readdirSync("./routes").map(file=>app.use('/',require(`./routes/${file}`)))
 
-// const Profile = require("./models/profile");
 
 
 mongoose
@@ -34,4 +33,3 @@ app.listen(port, () => {
   console.log("app on  port",port);
 });
 
-module.exports = app;
