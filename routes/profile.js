@@ -18,6 +18,44 @@ const profile = {
       },
     },
   ],
+  projects: [
+    {
+      title: "title 1",
+      description: "description",
+      websiteUrl: "",
+      usedTechnology: [],
+    },
+    {
+      title: "title 1",
+      description: "description",
+      websiteUrl: "",
+      usedTechnology: [],
+    },
+    {
+      title: "title 1",
+      description: "description",
+      websiteUrl: "",
+      usedTechnology: [],
+    },
+    {
+      title: "title 1",
+      description: "description",
+      websiteUrl: "",
+      usedTechnology: [],
+    },
+    {
+      title: "title 1",
+      description: "description",
+      websiteUrl: "",
+      usedTechnology: [],
+    },
+    {
+      title: "title 1",
+      description: "description",
+      websiteUrl: "",
+      usedTechnology: [],
+    },
+  ],
 };
 router.get("/profile", (req, res) => {
   res.send(profile);
