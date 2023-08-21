@@ -40,24 +40,72 @@ const profile = {
   ],
   experience: [
     {
+      title: "FULLSTACK DEVELOPER",
+      duration: "AUGUST 2023 - PRESENT",
+      organization: "IRIN AI PRIVATE LIMITED",
+      description:
+        " Working at Irin AI, a startup specializing in digital health record management and customer engagement using AI. Leveraged React’s component‐based architecture and state management principles to design dynamic and user‐friendly interfaces. Worked with NodeJs, MongoDB to create Rest-Full  Api. Utilized Redux for seamless API integration.",
+    },
+    {
+      title: "REACT DEVELOPER INTERN",
+      duration: "JUNE 2023 - JULY 2023",
+      organization: "IRIN AI PRIVATE LIMITED",
+      description:
+        " Working at Irin AI, a startup specializing in digital health record management and customer engagement using AI. Leveraged React’s component‐based architecture and state management principles to design dynamic and user‐friendly interfaces. Worked with NodeJs, MongoDB to create Rest-Full  Api. Utilized Redux for seamless API integration. ",
+    },
+    {
       title: "FLUTTER APPLICATION DEVELOPER INTERN",
       duration: "APRIL 2023 - JUNE 2023",
       organization: "ONGC TRiPURA POWER COMPANY",
       description:
         "Successfully delivered visually appealing user interfaces and collaborated with cross-functional teams to build the software solution for OTPC. Led the mobile app development using Flutter and Figma, focusing on a smooth user experience and a holistic testing suite. Utilized both stateful widgets and GetX state management to handle dynamic data in reusable software components",
     },
+  ],
+
+  skills: [
     {
-      title: "REACT / NODE JS DEVELOPER INTERN",
-      duration: "JUNE 2023 - JULY 2023",
-      organization: "IRIN AI PRIVATE LIMITED",
-      description: "  ",
+      skillName: "REACT JS",
+      skillValue: 70,
     },
     {
-      title: "FULLSTACK DEVELOPER",
-      duration: "AUGUST 2023 - PRESENT",
-      organization: "IRIN AI PRIVATE LIMITED",
-      description:
-        " Working at Irin AI, a startup specializing in digital health record management and customer engagement using AI. Leveraged React’s component‐based architecture and state management principles to design dynamic and user‐friendly interfaces. Worked with NodeJs, MongoDB to create Rest-Full  Api. Utilized Redux for seamless API integration.",
+      skillName: "JAVASCRIPT",
+      skillValue: 70,
+    },
+    {
+      skillName: "REDUX",
+      skillValue: 60,
+    },
+    {
+      skillName: "NODE JS",
+      skillValue: 60,
+    },
+    {
+      skillName: " MONGO DB",
+      skillValue: 50,
+    },
+    {
+      skillName: " FLUTTER",
+      skillValue: 50,
+    },
+    {
+      skillName: "HTML",
+      skillValue: 90,
+    },
+    {
+      skillName: "SCSS",
+      skillValue: 90,
+    },
+    {
+      skillName: "BOOTSTRAP",
+      skillValue: 80,
+    },
+    {
+      skillName: "DSA",
+      skillValue: 70,
+    },
+    {
+      skillName: "C++",
+      skillValue: 80,
     },
   ],
 
