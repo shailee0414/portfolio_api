@@ -10,7 +10,7 @@ const profile = {
     nationality: "India",
     address: "Ayodhya, Uttar Pradesh",
     about:
-      "Hello ! I'm Shailee Yadav. Frontend Developer with 1 year of experience. My skill set includes many areas, such as React, Redux, Flutter, C++, JavaScript, HTML5, CSS and other technologies. I am well‐versed in various SDLC methodologies such as Agile, Waterfall, and DevOps. I actively engage in the entire development process, from requirement gathering to implementation, testing, and deployment. My strong problem‐solving skills and passion for continuous learning make me a valuable asset to any organization seeking a skilled Software Engineer.",
+      "Hello! I'm Shailee Yadav, a Frontend Developer with 1 year of professional experience. My skill set encompasses a diverse range of areas, including React, Redux, Flutter, C++, JavaScript, HTML5, and CSS, among other technologies. My expertise extends to various software development life cycle (SDLC) methodologies, such as Agile, Waterfall, and DevOps. I actively participate in every stage of the development process, starting from requirement gathering to the final steps of implementation, testing, and deployment. My strengths lie in my adept problem-solving abilities, and my enthusiasm for continuous learning underscores my value as an asset to any organization in search of a skilled and dedicated Software Engineer.",
     linkedin: "https://www.linkedin.com/in/shailee-yadav/",
     github: "https://github.com/shailee0414",
   },
@@ -21,21 +21,21 @@ const profile = {
       duration: "JULY 2019 - JUNE 2023",
       organization: "REC KANNAUJ UTTAR PRADESH",
       description:
-        "Successfully completed a comprehensive B.Tech program with a focus on Electronics Engineering. Maintained a strong academic record throughout the program, with a 7.8 GPA (78 %). Collaborated on team project (Plant Leaf Disease Detection using CNN ), demonstrating effective communication and teamwork abilities.",
+        "I have successfully  completed B.Tech program with a specialization in Electronics Engineering, consistently maintaining a stellar academic performance with a GPA of 7.8 (equivalent to 78%). Notably, I actively participated in a collaborative team project centered around Plant Leaf Disease Detection using CNN. This experience showcased my proficiency in effective communication and demonstrated strong teamwork capabilities.",
     },
     {
       title: "INTERMEDIATE",
       duration: "MAY 2016 - APRIL 2018",
       organization: "A R ACADEMIC INTER COLLEGE FAIZABAD",
       description:
-        "Successfully completed 12th standard curriculum with a notable academic achievement, earning a 80.6 % . Demonstrated exceptional problem-solving skills and deep understanding of theoretical principles in physics, chemistry and maths",
+        "I have successfully completed the 12th standard curriculum with a notable academic achievement, securing a commendable 80.6%. During this academic journey, I prominently showcased exceptional problem-solving skills and exhibited a profound grasp of theoretical principles in physics, chemistry, and mathematics.",
     },
     {
       title: "HIGH SCHOOL",
       duration: "APRIL 2014 - MAY 2016",
       organization: "A R ACADEMIC INTER COLLEGE FAIZABAD",
       description:
-        "Successfully completed 10th standard curriculum with a notable academic achievement. Achieved the position of School Topper for the 90% with outstanding academic performance. ",
+        "I have successfully completed the 10th standard curriculum with a remarkable academic achievement. My outstanding performance led me to attain the position of School Topper with a score of 90%.",
     },
   ],
   experience: [
@@ -44,21 +44,21 @@ const profile = {
       duration: "AUGUST 2023 - PRESENT",
       organization: "IRIN AI PRIVATE LIMITED",
       description:
-        " Working at Irin AI, a startup specializing in digital health record management and customer engagement using AI. Leveraged React’s component‐based architecture and state management principles to design dynamic and user‐friendly interfaces. Worked with NodeJs, MongoDB to create Rest-Full  Api. Utilized Redux for seamless API integration.",
+        "I'm at Irin AI, a startup focused on digital health record management and customer engagement through AI. My role is utilizing React's component-based structure and state management concepts to craft dynamic and user-friendly interfaces. To build the backend, I'm using Node.js and MongoDB to develop a robust RESTful API. Additionally, I leveraged Redux to seamlessly integrate the API, ensuring smooth interactions.",
     },
     {
       title: "REACT DEVELOPER INTERN",
       duration: "JUNE 2023 - JULY 2023",
       organization: "IRIN AI PRIVATE LIMITED",
       description:
-        " Working at Irin AI, a startup specializing in digital health record management and customer engagement using AI. Leveraged React’s component‐based architecture and state management principles to design dynamic and user‐friendly interfaces. Worked with NodeJs, MongoDB to create Rest-Full  Api. Utilized Redux for seamless API integration. ",
+        "As an intern at Irin AI, a startup focused on digital health record management and customer engagement through AI. My role involved utilizing React's component-based structure and state management concepts to craft dynamic and user-friendly interfaces. To build the backend, I employed Node.js and MongoDB to develop a robust RESTful API. Additionally, I leveraged Redux to seamlessly integrate the API, ensuring smooth interactions. ",
     },
     {
       title: "FLUTTER APPLICATION DEVELOPER INTERN",
       duration: "APRIL 2023 - JUNE 2023",
       organization: "ONGC TRiPURA POWER COMPANY",
       description:
-        "Successfully delivered visually appealing user interfaces and collaborated with cross-functional teams to build the software solution for OTPC. Led the mobile app development using Flutter and Figma, focusing on a smooth user experience and a holistic testing suite. Utilized both stateful widgets and GetX state management to handle dynamic data in reusable software components",
+        "I played a pivotal role in delivering visually captivating user interfaces while collaborating seamlessly with cross-functional teams to develop OTPC's software solution. As the leader of mobile app development using Flutter and Figma, I prioritized a seamless user experience and implemented a comprehensive testing suite. In crafting reusable software components, I adeptly employed both stateful widgets and GetX state management to effectively handle dynamic data.",
     },
   ],
 
@@ -112,17 +112,17 @@ const profile = {
   projects: [
     {
       id: "1",
-      title: "Contact Management App",
+      title: "Contact management app",
       description:
-        "Designed and implemented an intuitive user interface for creating, editing, and deleting contacts, enhancing the user experience. Utilized GetX for state management, ensuring efficient and reactive data handling throughout the application.",
+        "I created a user-friendly interface that makes it easy to add, edit, and remove contacts, making the app more enjoyable to use. To keep things running smoothly and update data instantly, I used GetX for managing the app's internal state.",
       gitRepo: "https://github.com/shailee0414/contact_app",
       usedTechnology: ["Flutter", "Dart", "GetX", "Figma"],
     },
     {
       id: "2",
-      title: "Marvel Api Integration",
+      title: "Marvel Api integration",
       description:
-        "Developed a dynamic and interactive React application by integrating the Marvel API, utilizing Redux for state management and Thunk for asynchronous actions. Designed and implemented a user-friendly interface that allowed users to explore and search for Marvel characters and comics etc. Integrated robust search functionality with advanced filtering options, improving user engagement ",
+        "Built this engaging React app by connecting it with the Marvel API. I used Redux to manage the app's data and Thunk for handling actions that happen at different times. The app's interface was designed to be user-friendly, letting users easily discover and find Marvel characters and comics. I also added a powerful search feature with advanced filters, making it more fun and useful to explore.",
       gitRepo: "https://github.com/shailee0414/marvelStudio",
       usedTechnology: [
         "React.js",
@@ -135,17 +135,17 @@ const profile = {
     },
     {
       id: "3",
-      title: "GitHub GraphQL API Integration",
+      title: "GitHub GraphQL API integration",
       description:
-        "Developed a robust React application that seamlessly integrates with the GitHub GraphQL API, enabling users to create, read, update, and delete repositories directly from the application interface.Utilized React and JavaScript to build an interactive and user-friendly application for GitHub repository management. Implemented GraphQL queries and mutations to interact with the GitHub API, allowing users to perform CRUD operations on repositories.",
+        "I created this React application that smoothly connects to the GitHub GraphQL API. This lets users easily manage repositories right from the app's interface. By using React and JavaScript, I designed an interactive and user-friendly system for handling GitHub repositories. I made use of GraphQL queries and mutations to interact with the GitHub API, enabling users to perform actions like creating, reading, updating, and deleting repositories.",
       gitRepo: "https://github.com/shailee0414/GithubGraphqlApiImplementation",
       usedTechnology: ["React", "JavaScript", "Html", "Css"],
     },
     {
       id: "4",
-      title: "CoinCap API Integration ",
+      title: "CoinCap API integration ",
       description:
-        "Developed a React application that integrates with the CoinCap API, Implemented API requests to the CoinCap API to retrieve current market values of cryptocurrencies and companies. Utilized React, Redux, and Redux Saga middleware to efficiently manage application state and asynchronous data flow.",
+        "This React application  connects with the CoinCap API. I employed API requests to pull real-time market values of cryptocurrencies and companies from the CoinCap API. To manage the application state and handle data flow seamlessly, I utilized a combination of React, Redux, and the Redux Saga middleware, ensuring efficient management of both synchronous and asynchronous operations.",
       gitRepo: "https://github.com/shailee0414/Coincap/tree/main",
       usedTechnology: [
         "React",
@@ -158,9 +158,9 @@ const profile = {
     },
     {
       id: "5",
-      title: " OpenLibrary API Integration - Book Search ",
+      title: " OpenLibrary API integration - Book Search ",
       description:
-        "Developed a feature-rich React application utilizing Redux and Redux Thunk middleware to seamlessly integrate with the OpenLibrary API. Leveraged the OpenLibrary API to retrieve a comprehensive list of books, including details like titles, authors, publication information, and covers. Designed and implemented a powerful search feature enabling users to search for books by title and author name, providing accurate and real-time results.",
+        "This feature-rich React application that seamlessly connects with the OpenLibrary API, enhancing it with Redux and Redux Thunk middleware. By utilizing the OpenLibrary API, the application fetches an extensive array of book details, including titles, authors, publication information, and cover images. Notably, I designed and implemented a robust search function that empowers users to search for books using titles and author names, delivering accurate and real-time search results.",
       gitRepo: "https://github.com/shailee0414/book_library/tree/main",
       usedTechnology: [
         "React",
@@ -173,9 +173,9 @@ const profile = {
     },
     {
       id: "6",
-      title: "YouTube Video Search ",
+      title: "YouTube video search ",
       description:
-        "Developed a dynamic React application that seamlessly integrates with the YouTube API, allowing users to search for videos using keywords, view search results, and access video details. Integrated the YouTube API to facilitate video searches based on user-entered keywords. Designed and implemented video display components, allowing users to watch videos directly within the application.",
+        "I made an interactive React app that smoothly connects with the YouTube API. This lets users search for videos using keywords, check out the search results, and see more details about each video. I used the YouTube API to enable searches based on what users typed. I also created components to show the videos, so users can watch them right in the app.",
       gitRepo: "https://github.com/shailee0414/youtube-video-search",
       usedTechnology: ["React", "JavaScript", "Css", "Html"],
     },
