@@ -10,7 +10,7 @@ const profile = {
     nationality: "India",
     address: "Ayodhya, Uttar Pradesh",
     about:
-      "Hello! I'm Shailee Yadav, a Frontend Developer with 1 year of professional experience. My skill set encompasses a diverse range of areas, including React, Redux, Flutter, C++, JavaScript, HTML5, and CSS, among other technologies. My expertise extends to various software development life cycle (SDLC) methodologies, such as Agile, Waterfall, and DevOps. I actively participate in every stage of the development process, starting from requirement gathering to the final steps of implementation, testing, and deployment. My strengths lie in my adept problem-solving abilities, and my enthusiasm for continuous learning underscores my value as an asset to any organization in search of a skilled and dedicated Software Engineer.",
+      "Hello! I'm Shailee Yadav, a Frontend Developer with 1 year of professional experience. My skill set encompasses a diverse range of areas, including React, Redux, Flutter, C++, JavaScript, HTML5, and CSS, among other technologies. My expertise extends to various software development life cycle (SDLC) methodologies, such as Agile, Waterfall, and DevOps.\r I actively participate in every stage of the development process, starting from requirement gathering to the final steps of implementation, testing, and deployment. My strengths lie in my adept problem-solving abilities, and my enthusiasm for continuous learning underscores my value as an asset to any organization in search of a skilled and dedicated Software Engineer.",
     linkedin: "https://www.linkedin.com/in/shailee-yadav/",
     github: "https://github.com/shailee0414",
   },
@@ -56,7 +56,7 @@ const profile = {
     {
       title: "FLUTTER APPLICATION DEVELOPER INTERN",
       duration: "APRIL 2023 - JUNE 2023",
-      organization: "ONGC TRiPURA POWER COMPANY",
+      organization: "ONGC TRIPURA POWER COMPANY",
       description:
         "I played a pivotal role in delivering visually captivating user interfaces while collaborating seamlessly with cross-functional teams to develop OTPC's software solution. As the leader of mobile app development using Flutter and Figma, I prioritized a seamless user experience and implemented a comprehensive testing suite. In crafting reusable software components, I adeptly employed both stateful widgets and GetX state management to effectively handle dynamic data.",
     },
