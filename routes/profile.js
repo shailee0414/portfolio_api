@@ -43,65 +43,60 @@ const profile = {
       title: "FULLSTACK DEVELOPER",
       duration: "AUGUST 2023 - PRESENT",
       organization: "IRIN AI PRIVATE LIMITED",
-      description:
-        "I'm at Irin AI, a startup focused on digital health record management and customer engagement through AI. My role is utilizing React's component-based structure and state management concepts to craft dynamic and user-friendly interfaces. To build the backend, I'm using Node.js and MongoDB to develop a robust RESTful API. Additionally, I leveraged Redux to seamlessly integrate the API, ensuring smooth interactions.",
-    },
-    {
-      title: "REACT DEVELOPER INTERN",
-      duration: "JUNE 2023 - JULY 2023",
-      organization: "IRIN AI PRIVATE LIMITED",
-      description:
-        "As an intern at Irin AI, a startup focused on digital health record management and customer engagement through AI. My role involved utilizing React's component-based structure and state management concepts to craft dynamic and user-friendly interfaces. To build the backend, I employed Node.js and MongoDB to develop a robust RESTful API. Additionally, I leveraged Redux to seamlessly integrate the API, ensuring smooth interactions. ",
+      description: `Software Engineer with 1.5+ years of experience developing scalable web and mobile applications
+using React.js, React Native, Node.js, MongoDB, and related technologies. Proficient in integrating
+RESTful APIs and optimizing application performance. Actively involved in the entire development
+lifecycle, from requirement gathering to deployment. Passionate about exploring new technologies,
+refining code for optimal performance, and developing high-quality, efficient software solutions.`
     },
     {
       title: "FLUTTER APPLICATION DEVELOPER INTERN",
       duration: "APRIL 2023 - JUNE 2023",
       organization: "ONGC TRIPURA POWER COMPANY",
-      description:
-        "I played a pivotal role in delivering visually captivating user interfaces while collaborating seamlessly with cross-functional teams to develop OTPC's software solution. As the leader of mobile app development using Flutter and Figma, I prioritized a seamless user experience and implemented a comprehensive testing suite. In crafting reusable software components, I adeptly employed both stateful widgets and GetX state management to effectively handle dynamic data.",
+      description:`I successfully delivered visually appealing user interfaces and collaborated with cross-functional teams to develop a seamless software solution for OTPC. I led the mobile app development using Flutter and Figma, ensuring a smooth user experience and comprehensive testing coverage. I implemented Firebase notifications to enhance user engagement and utilized GetX state management to efficiently handle dynamic data and create reusable components. Through this experience, I gained valuable expertise in Flutter, GetX, and GitHub, contributing to various projects while expanding my technical proficiency.`
     },
   ],
 
   skills: [
     {
       skillName: "REACT JS",
-      skillValue: 70,
+      skillValue: 90,
     },
     {
       skillName: "JAVASCRIPT",
-      skillValue: 70,
+      skillValue: 90,
     },
     {
       skillName: "REDUX",
-      skillValue: 60,
-    },
-    {
-      skillName: "NODE JS",
-      skillValue: 60,
-    },
-    {
-      skillName: " MONGO DB",
-      skillValue: 50,
-    },
-    {
-      skillName: " FLUTTER",
-      skillValue: 50,
-    },
-    {
-      skillName: "HTML",
-      skillValue: 90,
-    },
-    {
-      skillName: "SCSS",
-      skillValue: 90,
-    },
-    {
-      skillName: "BOOTSTRAP",
       skillValue: 80,
     },
     {
-      skillName: "DSA",
+      skillName: "NODE JS",
+      skillValue: 93,
+    },
+    {
+      skillName: " MONGO DB",
+      skillValue: 80,
+    },
+    {
+      skillName: " FLUTTER",
       skillValue: 70,
+    },
+    {
+      skillName: "HTML",
+      skillValue: 99,
+    },
+    {
+      skillName: "SCSS",
+      skillValue: 99,
+    },
+    {
+      skillName: "BOOTSTRAP",
+      skillValue: 85,
+    },
+    {
+      skillName: "DSA",
+      skillValue: 80,
     },
     {
       skillName: "C++",
