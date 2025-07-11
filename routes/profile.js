@@ -6,11 +6,10 @@ const profile = {
   profileData: {
     name: "Shailee Yadav",
     email: "shaileeyadav130@gmail.com",
-    phoneNo: 7348265799,
+    // phoneNo: 7348265799,
     nationality: "India",
     address: "Ayodhya, Uttar Pradesh",
-    about:
-      "Hello! I'm Shailee Yadav, a Frontend Developer with 1 year of professional experience. My skill set encompasses a diverse range of areas, including React, Redux, Flutter, C++, JavaScript, HTML5, and CSS, among other technologies. My expertise extends to various software development life cycle (SDLC) methodologies, such as Agile, Waterfall, and DevOps.\r I actively participate in every stage of the development process, starting from requirement gathering to the final steps of implementation, testing, and deployment. My strengths lie in my adept problem-solving abilities, and my enthusiasm for continuous learning underscores my value as an asset to any organization in search of a skilled and dedicated Software Engineer.",
+    about: `Full-Stack Developer with 2 years of experience building scalable web and mobile applications using React.js, React Native, Node.js, Python, and MongoDB. Skilled in developing RESTful APIs, integrating third-party services (Firebase, Shopify, WhatsApp API), and optimizing performance across the stack. Delivered impactful projects including a medical booking system, marketing automation flows, and real-time chat features. Passionate about clean architecture, continuous learning, and building solutions that enhance user experience and business outcomes. Currently serving notice period and open for immediate opportunities.`,
     linkedin: "https://www.linkedin.com/in/shailee-yadav/",
     github: "https://github.com/shailee0414",
   },
@@ -40,69 +39,48 @@ const profile = {
   ],
   experience: [
     {
-      title: "FULLSTACK DEVELOPER",
-      duration: "AUGUST 2023 - PRESENT",
-      organization: "IRIN AI PRIVATE LIMITED",
-      description: `Software Engineer with 1.5+ years of experience developing scalable web and mobile applications
-using React.js, React Native, Node.js, MongoDB, and related technologies. Proficient in integrating
-RESTful APIs and optimizing application performance. Actively involved in the entire development
-lifecycle, from requirement gathering to deployment. Passionate about exploring new technologies,
-refining code for optimal performance, and developing high-quality, efficient software solutions.`
+      title: "Full-Stack Developer",
+      duration: "June 2023 – Present",
+      organization: "Irin AI Private Limited",
+      description: `Developed and deployed multiple client platforms including e-commerce and medical booking systems using React and Node.js. Launched Irin app with Firebase Cloud Messaging for real-time notifications. Built WhatsApp chatbot campaigns using Meta Business API and integrated Shopify APIs for event-based marketing. Implemented subscription billing using Chargebee and Stripe. Built scalable RESTful APIs with Node.js and Python, reducing response time by 30%. Enhanced app performance by 35% with lazy loading and optimized React components. Used SCSS, Redux-Saga, and Context API for consistent, maintainable UIs.`
     },
     {
-      title: "FLUTTER APPLICATION DEVELOPER INTERN",
-      duration: "APRIL 2023 - JUNE 2023",
-      organization: "ONGC TRIPURA POWER COMPANY",
-      description:`I successfully delivered visually appealing user interfaces and collaborated with cross-functional teams to develop a seamless software solution for OTPC. I led the mobile app development using Flutter and Figma, ensuring a smooth user experience and comprehensive testing coverage. I implemented Firebase notifications to enhance user engagement and utilized GetX state management to efficiently handle dynamic data and create reusable components. Through this experience, I gained valuable expertise in Flutter, GetX, and GitHub, contributing to various projects while expanding my technical proficiency.`
-    },
+      title: "Flutter Application Developer Intern",
+      duration: "April 2023 – June 2023",
+      organization: "ONGC Tripura Power Company Ltd",
+      description: `Led development of a mobile app using Flutter, GetX, and Figma, focused on intuitive UI and smooth UX. Integrated Firebase push notifications and implemented reusable components. Collaborated with cross-functional teams to deliver a functional solution for OTPC. Gained practical experience in GitHub, MySQL, and agile development practices.`
+    }
   ],
 
+
   skills: [
-    {
-      skillName: "REACT JS",
-      skillValue: 90,
-    },
-    {
-      skillName: "JAVASCRIPT",
-      skillValue: 90,
-    },
-    {
-      skillName: "REDUX",
-      skillValue: 80,
-    },
-    {
-      skillName: "NODE JS",
-      skillValue: 93,
-    },
-    {
-      skillName: " MONGO DB",
-      skillValue: 80,
-    },
-    {
-      skillName: " FLUTTER",
-      skillValue: 70,
-    },
-    {
-      skillName: "HTML",
-      skillValue: 99,
-    },
-    {
-      skillName: "SCSS",
-      skillValue: 99,
-    },
-    {
-      skillName: "BOOTSTRAP",
-      skillValue: 85,
-    },
-    {
-      skillName: "DSA",
-      skillValue: 80,
-    },
-    {
-      skillName: "C++",
-      skillValue: 80,
-    },
+    { skillName: "REACT JS", skillValue: 85 },
+    { skillName: "REACT NATIVE", skillValue: 75 },
+    { skillName: "NODE JS", skillValue: 85 },
+    { skillName: "JAVASCRIPT", skillValue: 80 },
+    { skillName: "TYPESCRIPT", skillValue: 70 },
+    { skillName: "REDUX", skillValue: 70 },
+    { skillName: "CONTEXT API", skillValue: 75 },
+    { skillName: "MONGO DB", skillValue: 80 },
+    { skillName: "PYTHON", skillValue: 70 },
+    { skillName: "REST API", skillValue: 85 },
+    { skillName: "FIREBASE", skillValue: 75 },
+    { skillName: "FLUTTER", skillValue: 50 },
+    { skillName: "SCSS", skillValue: 85 },
+    { skillName: "BOOTSTRAP", skillValue: 85 },
+    { skillName: "HTML", skillValue: 90 },
+    { skillName: "CSS", skillValue: 85 },
+    { skillName: "SOCKET.IO", skillValue: 70 },
+    { skillName: "GIT & GITHUB", skillValue: 85 },
+    { skillName: "CHARGEBEE", skillValue: 65 },
+    { skillName: "STRIPE", skillValue: 65 },
+    { skillName: "DSA", skillValue: 70 },
+    { skillName: "C++", skillValue: 80 },
+    { skillName: "GETX (Flutter)", skillValue: 60 },
+    { skillName: "FIGMA", skillValue: 70 },
+    { skillName: "AGILE / SCRUM", skillValue: 80 },
   ],
+
 
   projects: [
     {
